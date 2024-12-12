@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h1 {
+    color: chartreuse;
+}
+
+body {
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center;
+    justify-content:center;
+    height:contain;
+}
